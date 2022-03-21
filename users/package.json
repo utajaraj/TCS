@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.2",
+    "chai": "^4.3.6",
+    "chai-like": "^1.1.1",
+    "chai-things": "^0.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "should": "^13.2.3"
+  }
+}
